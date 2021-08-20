@@ -2,13 +2,13 @@
   "name": "lru-cache",
   "version": "1.0.0",
   "description": "LRU Cache implementation in javascript",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "XiehCanCode",
+  "license": "MIT",
   "devDependencies": {
     "mocha": "9.1.0"
   }
